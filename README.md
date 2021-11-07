@@ -1,1 +1,3 @@
-# learning-rush
+# learning-rust
+
+this is a test!
